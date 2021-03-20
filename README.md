@@ -1,2 +1,0 @@
-# rssmania
-Alfred workflow

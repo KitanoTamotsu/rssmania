@@ -246,3 +246,17 @@ rssmania.alfredworkflowのメモ
 
 　　　　あー疲れた
 
+Ver1.1 2021-03-28
+・ScriptFilterのJSONフォーマットの編集をワンライナーから1行1プロパティーに変更
+
+　修正前の例
+　json=$json'{"title":"'${title[i]:0:24}'","subtitle":"'${sub[i]:9:4}${sub[i]:6:3}${sub[i]:4:2}'","arg": "'${link[i]}'"}'
+ 
+ 　修正後の例
+  json=$json'{"title":"'${title[i]:0:24}'",'
+  json=$json'"subtitle":"'${sub[i]:9:4}${sub[i]:6:3}${sub[i]:4:2}'",'
+  json=$json'"arg": "'${link[i]}'"}' 
+
+・ソースとは関係ありませんが、サンプル動画を投稿
+
+

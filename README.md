@@ -4,7 +4,6 @@
 
 #### 開発メモ
 ワークフロー
-<img width="600" src="https://user-images.githubusercontent.com/40127279/126859172-605ef5f8-5826-44a4-a1ce-50f9db25e380.png">
 
 ### 1.パラメータで表示させる記事の一覧をコントロールさせるアイディア
 　Alfredのアウトプットは9件表示させることができます

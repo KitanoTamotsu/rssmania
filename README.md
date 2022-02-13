@@ -1,5 +1,3 @@
-## 　　Lesson14.　RSSやHTMLをパースする/出力する一覧をコントロールする 
-
 [サンプル動画](https://user-images.githubusercontent.com/40127279/126052092-d459abff-728d-4de4-a7b7-256f2407c8dd.mp4)
 
 #### 開発メモ
